@@ -24,7 +24,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=markyin0707" alt="访客统计" /></div>
 <!-- 贪吃蛇代码贡献图 -->
 
-<div align="center"><img src=https://blog10000.oss-cn-shanghai.aliyuncs.com/img/202204211754381.gif /></div>
+<div align="center"><img src=https://cdn.jsdeliver.net/gh/markyin0707/markyin0707/contribution-snake/github-contribution-grid-snake.gif /></div>
 
 
 #  🙋 Hello
