@@ -224,7 +224,7 @@ No Activity Tracked This Week
 </table>
 <!-- Wakatime Graph-->
 
-<table>
+<!-- <table>
   <tr>
     <td>
       <img src="https://wakatime.com/share/@markyin0707/a9ef11c2-7320-4de1-9328-3dfb2ac8d0ab.svg" width="500"/>
@@ -233,10 +233,10 @@ No Activity Tracked This Week
       <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500"/>
     </td>
   </tr>
-</table>
+</table> -->
 <!-- Dynamic Heatmap -->
 
-<table>
+<!-- <table>
   <tr>
     <td colspan="2" >
       <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Running/assets/github.svg" width="100%" />
@@ -258,7 +258,7 @@ No Activity Tracked This Week
       <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/shanbay.svg" />
     </td>
   </tr>
-</table>
+</table> -->
 
 
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
