@@ -24,14 +24,14 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=markyin0707" alt="访客统计" /></div>
 <!-- 贪吃蛇代码贡献图 -->
 
-<div align="center"><img src=https://cdn.jsdeliver.net/gh/markyin0707/markyin0707/contribution-snake/github-contribution-grid-snake.gif /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/markyin0707/markyin0707/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
 
 #  🙋 Hello
 
 <p>✍️&nbsp;&nbsp;Hellow everone, I'm Mark! 目前就读于齐鲁工业大学，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
 <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p> 
 <p>&emsp;&emsp;我开始的太晚了，但总归不算太迟。春华秋实，努力一定会有收获，一枚学渣正在悄悄蜕变。。。</p>
 
 <!-- 比较好的开源项目卡片 -->
@@ -91,11 +91,12 @@
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
-
 <!-- just img -->
+
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
 <!-- profile-3d-contrib -->
+
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/markyin0707/markyin0707/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
 
 
@@ -104,28 +105,34 @@
 <!-- 连续提交代码天数记录 -->
 
 <div align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
+  <img width="150" src="https://blog10000.oss-cn-shanghai.aliyuncs.com/img/202204221704180.png" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markyin0707&theme=dark&hide_border=true" />
+  <img width="150" src="https://blog10000.oss-cn-shanghai.aliyuncs.com/img/202204221704225.png" />
 </div>
+
 <br>
 
 <!-- metrics 基础资料 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/base_metrics.svg" alt="base metrics"/></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/markyin0707/markyin0707/base_metrics.svg" alt="base metrics"/></div>
+
 <br>
 
 <!-- Dynamic Quotes -->
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
 
 <!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
+
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=markyin0707&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
+
 <br>
 
 <!-- GitHub数据统计 -->
+
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=markyin0707&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markyin0707&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
+
 <br>
 
 <!-- 最近博客和豆瓣动态 -->
@@ -142,7 +149,6 @@
 * <a href='https://sunguoqi.com/posts/33414.html' target='_blank'>给GitHub首页添加一个有趣的贪吃蛇小动画</a> - 2022-01-08
 * <a href='https://sunguoqi.com/posts/cuiqingcai.html' target='_blank'>21年终总结&&关于我自学爬虫的点滴经历</a> - 2021-12-31
   <!-- END_SECTION:blog -->
-  
 
 </td>
     
@@ -163,12 +169,11 @@
 </tr>
 </table>
 
-
 <!-- wakatime 统计 -->
+
 <table align="center">
 <tr>
 <td valign="top">  
-
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
@@ -209,7 +214,6 @@ No Activity Tracked This Week
 
 ```
 
-
  Last Updated on 21/04/2022 01:52:54 UTC
 <!--END_SECTION:waka-->
 </td>
@@ -220,16 +224,16 @@ No Activity Tracked This Week
 <table align="center">
   <tr>
     <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
+      <img src="https://activity-graph.herokuapp.com/graph?username=markyin0707&theme=xcode&bg_color=FF000000&hide_border=true" />
     </td>
   </tr>
 </table>
-
 <!-- Wakatime Graph-->
+
 <table>
   <tr>
     <td>
-      <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500"/>
+      <img src="https://wakatime.com/share/@markyin0707/a9ef11c2-7320-4de1-9328-3dfb2ac8d0ab.svg" width="500"/>
     </td>
     <td>
       <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500"/>
@@ -238,6 +242,7 @@ No Activity Tracked This Week
 </table>
 
 <!-- Dynamic Heatmap -->
+
 <table>
   <tr>
     <td colspan="2" >
@@ -266,10 +271,11 @@ No Activity Tracked This Week
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
 <!-- just img -->
-<div align="center"><img width="250px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311913581.gif"/></div>
+<div align="center"><img width="250px" src="https://blog10000.oss-cn-shanghai.aliyuncs.com/img/202204221731145.gif"/></div>
 
 <!-- plugin metrics -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111021926704.png"/>
+  <img src="https://cdn.jsdelivr.net/gh/markyin0707/markyin0707/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
+  <img src="https://blog10000.oss-cn-shanghai.aliyuncs.com/img/202204221713773.png"/>
 </div>
+
