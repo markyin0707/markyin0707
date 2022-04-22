@@ -118,6 +118,7 @@
 <br>
 
 <!-- Dynamic Quotes -->
+
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
 
 <!-- GitHub奖杯🏆 -->
@@ -140,7 +141,7 @@
 <tr>
 <td valign="top">    
 
-### 🤹‍♀️ <a href="https://vercel.com/markyin0707/markyin0707-github-io" target="_blank">Recent Blog</a>
+### 🤹‍♀️ <a href="https://markyin0707.github.io" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
 
@@ -150,12 +151,12 @@
     
 <td valign="top">
 
-### 🤾‍♂️ <a href="https://www.douban.com/people/markyin0707/" target="_blank">Funny Soul</a>
+### 🤾‍♂️ <a href="https://www.douban.com/people/markyin0707/?_i=0631723k_sIwCk" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
 
 <!-- END_SECTION:douban -->
-  
+
 
 </td> 
 </tr>
@@ -213,6 +214,7 @@ No Activity Tracked This Week
 </table>
 
 <!-- GitHub Activity Graph -->
+
 <table align="center">
   <tr>
     <td colspan="2">
@@ -232,7 +234,6 @@ No Activity Tracked This Week
     </td>
   </tr>
 </table>
-
 <!-- Dynamic Heatmap -->
 
 <table>
