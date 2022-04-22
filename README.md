@@ -93,7 +93,7 @@
 </div>
 <!-- just img -->
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
+<div align="center"><img src="https://blog10000.oss-cn-shanghai.aliyuncs.com/img/202204221743058.png" /></div>
 
 <!-- profile-3d-contrib -->
 
@@ -140,7 +140,7 @@
 <tr>
 <td valign="top">    
 
-### 🤹‍♀️ <a href="https://sunguoqi.com/" target="_blank">Recent Blog</a>
+### 🤹‍♀️ <a href="https://vercel.com/markyin0707/markyin0707-github-io" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
 * <a href='https://sunguoqi.com/posts/20220225.html' target='_blank'>人生21岁，版本更新日志！</a> - 2022-02-25
@@ -154,7 +154,7 @@
     
 <td valign="top">
 
-### 🤾‍♂️ <a href="https://www.douban.com/people/sun0225SUN/" target="_blank">Funny Soul</a>
+### 🤾‍♂️ <a href="https://www.douban.com/people/markyin0707/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
 * <a href='https://book.douban.com/subject/35681856/' target='_blank'>读过Python3网络爬虫开发实战 第2版</a> - 2021-12-31
@@ -274,8 +274,8 @@ No Activity Tracked This Week
 <div align="center"><img width="250px" src="https://blog10000.oss-cn-shanghai.aliyuncs.com/img/202204221731145.gif"/></div>
 
 <!-- plugin metrics -->
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/markyin0707/markyin0707/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
   <img src="https://blog10000.oss-cn-shanghai.aliyuncs.com/img/202204221713773.png"/>
 </div>
-
