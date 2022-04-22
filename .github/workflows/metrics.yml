@@ -34,7 +34,7 @@ jobs:
         with:
           filename: plugin_metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          user: sun0225SUN
+          user: markyin0707
           template: classic
           committer_message: ":rocket: Update"
           base: ""
