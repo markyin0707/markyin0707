@@ -273,6 +273,7 @@ No Activity Tracked This Week
 <!-- plugin metrics -->
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/markyin0707/markyin0707/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
+<!--   <img src="https://cdn.jsdelivr.net/gh/markyin0707/markyin0707/plugin_metrics.svg" alt="plugin metrics" width="75%"/>  -->
+  <img src="https://cdn.jsdelivr.net/gh/markyin0707/markyin0707/plugin_metrics.svg" width="75%"/>
   <img src="https://blog10000.oss-cn-shanghai.aliyuncs.com/img/202204221713773.png"/>
 </div>
