@@ -4,14 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Welcome!&center=true&size=27">
   </a>
 </h1>
-<!-- 敲代码的图片 -->
 
+<!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://blog10000.oss-cn-shanghai.aliyuncs.com/img/202204211714867.GIF"></div>
 
 <br>
 
 <!-- 个人资料徽标 -->
-
 <div align="center">
   <a href="https://www.markyin.cn"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
   <a href="https://twitter.com/markyin0707/"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
@@ -20,12 +19,12 @@
   <a href="https://blog.csdn.net/weixin_63523162?type=blog"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
   <a href="https://space.bilibili.com/534688871"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://www.zhihu.com/people/smile-65-40-11"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
+ 
 <!-- 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=markyin0707" alt="访客统计" /></div>
+
 <!-- 贪吃蛇代码贡献图 -->
-
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/markyin0707/markyin0707/contribution-snake/github-contribution-grid-snake.svg" /></div>
-
 
 #  🙋 Hello
 
@@ -271,7 +270,6 @@ No Activity Tracked This Week
 <div align="center"><img width="250px" src="https://blog10000.oss-cn-shanghai.aliyuncs.com/img/202204221731145.gif"/></div>
 
 <!-- plugin metrics -->
-
 <div align="center">
 <!--   <img src="https://cdn.jsdelivr.net/gh/markyin0707/markyin0707/plugin_metrics.svg" alt="plugin metrics" width="75%"/>  -->
   <img src="https://cdn.jsdelivr.net/gh/markyin0707/markyin0707/plugin_metrics.svg" width="75%"/>
