@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://www.markyin.cn">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Who am I?%2C%20I am MarkYin.%22);Welcome!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22 Who am I? %2C%20 I am MarkYin% 22);Welcome!&center=true&size=27">
   </a>
 </h1>
 
