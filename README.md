@@ -28,7 +28,7 @@
 
 #  🙋 Hello
 
-<p>✍️&nbsp;&nbsp;Hellow everone, I'm Mark! studying in Qilu University of Technology. I love computer science and IT and Internet, and I want to become a senior programmer! My personal website is <a href="www.markyin.cn">www.markyin.cn</a> , welcome to talk about learning. We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
+<p>✍️&nbsp;&nbsp;Hellow everyone, I'm Mark🧑‍💻, studying in Qilu University of Technology. I love computer science and IT and Internet, and I want to become a senior programmer! My personal website is <a href="www.markyin.cn">www.markyin.cn</a> , welcome to talk about learning. We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 </p>
 
 <!-- 比较好的开源项目卡片 -->
