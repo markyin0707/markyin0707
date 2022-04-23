@@ -70,7 +70,7 @@ jobs:
           # 🈷️ Most used languages 常用语言统计
           plugin_languages: yes
           plugin_languages_ignored: html, css                               # List of languages to ignore (忽略语言)
-          plugin_languages_skipped: sun0225SUN                              # List of repositories to skip (忽略仓库)
+          plugin_languages_skipped: markyin0707                              # List of repositories to skip (忽略仓库)
           plugin_languages_colors: "0:orange, javascript:#ff0000, ..."      # Make most used languages orange and JavaScript red (语言配色)
           plugin_languages_aliases: "JavaScript:JS, TypeScript:TS, ..."     # Customize languages names with aliases (重命名语言)
           plugin_languages_details: bytes-size, percentage                  # Additionally display total bytes size and percentage (显示大小和百分比)
