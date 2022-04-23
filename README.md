@@ -105,7 +105,7 @@
 
 <div align="center">
   <img width="150" src="https://blog10000.oss-cn-shanghai.aliyuncs.com/img/202204221704180.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markyin0707&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markyin0707&theme=dark&hide_border=true" width=50%/>
   <img width="150" src="https://blog10000.oss-cn-shanghai.aliyuncs.com/img/202204221704225.png" />
 </div>
 
