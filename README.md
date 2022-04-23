@@ -102,15 +102,15 @@
 <!-- 连续提交代码天数记录 -->
 
 <div align="center">
-  <img width="150" src="https://blog10000.oss-cn-shanghai.aliyuncs.com/img/202204221704180.png" width=25%/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markyin0707&theme=dark&hide_border=true" width=50%/>
-  <img width="150" src="https://blog10000.oss-cn-shanghai.aliyuncs.com/img/202204221704225.png" width=25%/>
+  <img src="https://blog10000.oss-cn-shanghai.aliyuncs.com/img/202204221704180.png" width=20%>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markyin0707&theme=dark&hide_border=true" width=50%>
+  <img src="https://blog10000.oss-cn-shanghai.aliyuncs.com/img/202204221704225.png" width=20%>
 </div>
 
 <br>
 
 <!-- metrics 基础资料 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/markyin0707/markyin0707/base_metrics.svg" alt="base metrics"/></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/markyin0707/markyin0707/base_metrics.svg" alt="base metrics" /></div>
 
 <br>
 
