@@ -104,9 +104,9 @@
 <!-- 连续提交代码天数记录 -->
 
 <div align="center">
-  <img width="150" src="https://blog10000.oss-cn-shanghai.aliyuncs.com/img/202204221704180.png" />
+  <img width="150" src="https://blog10000.oss-cn-shanghai.aliyuncs.com/img/202204221704180.png" width=25%/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markyin0707&theme=dark&hide_border=true" width=50%/>
-  <img width="150" src="https://blog10000.oss-cn-shanghai.aliyuncs.com/img/202204221704225.png" />
+  <img width="150" src="https://blog10000.oss-cn-shanghai.aliyuncs.com/img/202204221704225.png" width=25%/>
 </div>
 
 <br>
