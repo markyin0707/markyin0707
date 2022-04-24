@@ -129,17 +129,18 @@
     <td valign="top">    
     ### 🤹‍♀️ <a href="https://markyin0707.github.io" target="_blank">Recent Blog</a>
     <!-- START_SECTION:blog -->
-    <!-- END_SECTION:blog -->
+
+<!-- END_SECTION:blog -->
     </td> 
     <td valign="top">
     ### 🤾‍♂️ <a href="https://www.douban.com/people/markyin0707/?_i=0631723k_sIwCk" target="_blank">Funny Soul</a>
     <!-- START_SECTION:douban -->
-    * <a href='http://movie.douban.com/subject/3011235/' target='_blank'>看过哈利·波特与死亡圣器(下)</a> - 2022-04-22
-    * <a href='http://movie.douban.com/subject/25728006/' target='_blank'>看过速度与激情9</a> - 2022-04-22
-    * <a href='https://music.douban.com/subject/26987521/' target='_blank'>听过耿耿于怀</a> - 2022-04-22
-    * <a href='http://movie.douban.com/subject/3793783/' target='_blank'>看过地心引力</a> - 2022-04-22
-    * <a href='http://movie.douban.com/subject/1889243/' target='_blank'>看过星际穿越</a> - 2022-04-22
-    <!-- END_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/3011235/' target='_blank'>看过哈利·波特与死亡圣器(下)</a> - 2022-04-22
+* <a href='http://movie.douban.com/subject/25728006/' target='_blank'>看过速度与激情9</a> - 2022-04-22
+* <a href='https://music.douban.com/subject/26987521/' target='_blank'>听过耿耿于怀</a> - 2022-04-22
+* <a href='http://movie.douban.com/subject/3793783/' target='_blank'>看过地心引力</a> - 2022-04-22
+* <a href='http://movie.douban.com/subject/1889243/' target='_blank'>看过星际穿越</a> - 2022-04-22
+<!-- END_SECTION:douban -->
     </td> 
   </tr>
 </table>
