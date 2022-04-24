@@ -27,12 +27,10 @@
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/markyin0707/markyin0707/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
 #  🙋 Hello
-
 <p>✍️&nbsp;&nbsp;Hellow everyone, I'm Mark🧑‍💻, studying in Qilu University of Technology. I love computer science and IT and Internet, and I want to become a senior programmer! My personal website is <a href="www.markyin.cn">www.markyin.cn</a> , welcome to talk about learning. We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 </p>
 
 <!-- 比较好的开源项目卡片 -->
-
 <div align="center">
 <a href="https://github.com/markyin0707/typora-activation">
   <img src=https://github-readme-stats.vercel.app/api/pin/?username=markyin0707&repo=typora-activation&theme=dark&bg_color=0d1117&hide_border=true></a>
@@ -42,7 +40,6 @@
 
 
 💪 正在学习: 
-
 &emsp;&emsp;
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -51,7 +48,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 
 🧠 计划学习:
-
 &emsp;&emsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
@@ -66,7 +62,6 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 
 🧰 常用的工具:
-
 &emsp;&emsp; 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
@@ -88,19 +83,17 @@
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
-<!-- just img -->
 
+<!-- just img -->
 <div align="center"><img src="https://blog10000.oss-cn-shanghai.aliyuncs.com/img/202204221743058.png" /></div>
 
 <!-- profile-3d-contrib -->
-
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/markyin0707/markyin0707/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
 
 
 # 🚀 Actions
 
 <!-- 连续提交代码天数记录 -->
-
 <div align="center">
   <img src="https://blog10000.oss-cn-shanghai.aliyuncs.com/img/202204221704180.png" width=20%>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markyin0707&theme=dark&hide_border=true" width=50%>
@@ -115,17 +108,14 @@
 <br>
 
 <!-- Dynamic Quotes -->
-
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
 
 <!-- GitHub奖杯🏆 -->
-
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=markyin0707&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
 
 <br>
 
 <!-- GitHub数据统计 -->
-
 <div align="center">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=markyin0707&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markyin0707&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
@@ -135,87 +125,78 @@
 
 <!-- 最近博客和豆瓣动态 -->
 <table align="center">
-<tr>
-<td valign="top">    
-
-### 🤹‍♀️ <a href="https://markyin0707.github.io" target="_blank">Recent Blog</a>
-
-<!-- START_SECTION:blog -->
-
-<!-- END_SECTION:blog -->
-
-</td>
-    
-<td valign="top">
-
-### 🤾‍♂️ <a href="https://www.douban.com/people/markyin0707/?_i=0631723k_sIwCk" target="_blank">Funny Soul</a>
-
-<!-- START_SECTION:douban -->
-* <a href='http://movie.douban.com/subject/3011235/' target='_blank'>看过哈利·波特与死亡圣器(下)</a> - 2022-04-22
-* <a href='http://movie.douban.com/subject/25728006/' target='_blank'>看过速度与激情9</a> - 2022-04-22
-* <a href='https://music.douban.com/subject/26987521/' target='_blank'>听过耿耿于怀</a> - 2022-04-22
-* <a href='http://movie.douban.com/subject/3793783/' target='_blank'>看过地心引力</a> - 2022-04-22
-* <a href='http://movie.douban.com/subject/1889243/' target='_blank'>看过星际穿越</a> - 2022-04-22
-<!-- END_SECTION:douban -->
-
-
-</td> 
-</tr>
+  <tr>
+    <td valign="top">    
+    ### 🤹‍♀️ <a href="https://markyin0707.github.io" target="_blank">Recent Blog</a>
+    <!-- START_SECTION:blog -->
+    <!-- END_SECTION:blog -->
+    </td> 
+    <td valign="top">
+    ### 🤾‍♂️ <a href="https://www.douban.com/people/markyin0707/?_i=0631723k_sIwCk" target="_blank">Funny Soul</a>
+    <!-- START_SECTION:douban -->
+    * <a href='http://movie.douban.com/subject/3011235/' target='_blank'>看过哈利·波特与死亡圣器(下)</a> - 2022-04-22
+    * <a href='http://movie.douban.com/subject/25728006/' target='_blank'>看过速度与激情9</a> - 2022-04-22
+    * <a href='https://music.douban.com/subject/26987521/' target='_blank'>听过耿耿于怀</a> - 2022-04-22
+    * <a href='http://movie.douban.com/subject/3793783/' target='_blank'>看过地心引力</a> - 2022-04-22
+    * <a href='http://movie.douban.com/subject/1889243/' target='_blank'>看过星际穿越</a> - 2022-04-22
+    <!-- END_SECTION:douban -->
+    </td> 
+  </tr>
 </table>
 
 <!-- wakatime 统计 -->
 <table align="center">
-<tr>
-<td valign="top">  
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+  <tr>
+    <td valign="top">  
+    <!--START_SECTION:waka-->
+    **I'm a Night 🦉** 
 
-```text
-🌞 Morning    7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.72% 
-🌆 Daytime    27 commits     █████████░░░░░░░░░░░░░░░░   37.5% 
-🌃 Evening    38 commits     █████████████░░░░░░░░░░░░   52.78% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+    ```text
+    🌞 Morning    7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.72% 
+    🌆 Daytime    27 commits     █████████░░░░░░░░░░░░░░░░   37.5% 
+    🌃 Evening    38 commits     █████████████░░░░░░░░░░░░   52.78% 
+    🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
-```
-📅 **I'm Most Productive on Saturday** 
+    ```
+    📅 **I'm Most Productive on Saturday** 
 
-```text
-Monday       6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-Tuesday      6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-Wednesday    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.39% 
-Thursday     7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.72% 
-Friday       21 commits     ███████░░░░░░░░░░░░░░░░░░   29.17% 
-Saturday     24 commits     ████████░░░░░░░░░░░░░░░░░   33.33% 
-Sunday       7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.72%
+    ```text
+    Monday       6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+    Tuesday      6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+    Wednesday    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.39% 
+    Thursday     7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.72% 
+    Friday       21 commits     ███████░░░░░░░░░░░░░░░░░░   29.17% 
+    Saturday     24 commits     ████████░░░░░░░░░░░░░░░░░   33.33% 
+    Sunday       7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.72%
 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-JavaScript               41 mins             ████████████████░░░░░░░░░   63.81% 
-HTML                     15 mins             ██████░░░░░░░░░░░░░░░░░░░   24.05% 
-C++                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.27% 
-CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.67% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88%
-
-🔥 Editors: 
-VS Code                  1 hr 5 mins         █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  1 hr 5 mins         █████████████████████████   100.0%
-
-```
+    ```
 
 
- Last Updated on 24/04/2022 02:14:03 UTC
-<!--END_SECTION:waka-->
-</td>
-</tr>
+    📊 **This Week I Spent My Time On** 
+
+    ```text
+    ⌚︎ Time Zone: Asia/Shanghai
+
+    💬 Programming Languages: 
+    JavaScript               41 mins             ████████████████░░░░░░░░░   63.81% 
+    HTML                     15 mins             ██████░░░░░░░░░░░░░░░░░░░   24.05% 
+    C++                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.27% 
+    CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.67% 
+    YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88%
+
+    🔥 Editors: 
+    VS Code                  1 hr 5 mins         █████████████████████████   100.0%
+
+    💻 Operating System: 
+    Windows                  1 hr 5 mins         █████████████████████████   100.0%
+
+    ```
+
+
+     Last Updated on 24/04/2022 02:14:03 UTC
+    <!--END_SECTION:waka-->
+    </td>
+  </tr>
 </table>
 
 <!-- GitHub Activity Graph -->
