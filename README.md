@@ -1,16 +1,18 @@
 <!-- 动态打字效果 -->
+
 <h1 align="center">
   <a href="https://www.markyin.cn">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Welcome!&center=true&size=27">
   </a>
 </h1>
-
 <!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://blog10000.oss-cn-shanghai.aliyuncs.com/img/202204211714867.GIF"></div>
+
+<div align="center" ><img order-radius="100px" src="https://image-myself.oss-cn-shanghai.aliyuncs.com/img/202204281433870.GIF"></div>
 
 <br>
 
 <!-- 个人资料徽标 -->
+
 <div align="center">
   <a href="https://www.markyin.cn"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
   <a href="https://twitter.com/markyin0707/"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
@@ -19,7 +21,7 @@
   <a href="https://blog.csdn.net/weixin_63523162?type=blog"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
   <a href="https://space.bilibili.com/534688871"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://www.zhihu.com/people/smile-65-40-11"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
- 
+
 <!-- 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=markyin0707" alt="访客统计" /></div>
 
@@ -85,7 +87,7 @@
 </div>
 
 <!-- just img -->
-<div align="center"><img src="https://blog10000.oss-cn-shanghai.aliyuncs.com/img/202204221743058.png" /></div>
+<div align="center"><img src="https://image-myself.oss-cn-shanghai.aliyuncs.com/img/202204281436919.png" /></div>
 
 <!-- profile-3d-contrib -->
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/markyin0707/markyin0707/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
@@ -95,14 +97,15 @@
 
 <!-- 连续提交代码天数记录 -->
 <div align="center">
-  <img src="https://blog10000.oss-cn-shanghai.aliyuncs.com/img/202204221704180.png" width=20%>
+  <img src="https://image-myself.oss-cn-shanghai.aliyuncs.com/img/202204281434519.png" width=20%>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markyin0707&theme=dark&hide_border=true" width=50%>
-  <img src="https://blog10000.oss-cn-shanghai.aliyuncs.com/img/202204221704225.png" width=20%>
+  <img src="https://image-myself.oss-cn-shanghai.aliyuncs.com/img/202204281434936.png" width=20%>
 </div>
 
 <br>
 
 <!-- metrics 基础资料 -->
+
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/markyin0707/markyin0707/base_metrics.svg" alt="base metrics" /></div>
 
 <br>
@@ -129,15 +132,15 @@
 <td valign="top">    
 
 ### 🤹‍♀️ <a href="https://sunguoqi.com/" target="_blank">Recent Blog</a>
-  
+
 <!-- START_SECTION:blog -->
 
 <!-- END_SECTION:blog -->
-  
+
 </td>
     
 <td valign="top">
-  
+
 ### 🤾‍♂️ <a href="https://www.douban.com/people/sun0225SUN/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
@@ -146,8 +149,9 @@
 * <a href='https://music.douban.com/subject/26987521/' target='_blank'>听过耿耿于怀</a> - 2022-04-22
 * <a href='http://movie.douban.com/subject/3793783/' target='_blank'>看过地心引力</a> - 2022-04-22
 * <a href='http://movie.douban.com/subject/1889243/' target='_blank'>看过星际穿越</a> - 2022-04-22
-<!-- END_SECTION:douban -->
+  <!-- END_SECTION:douban -->
   
+
 </td> 
 </tr>
 </table>
@@ -219,11 +223,12 @@ Windows                  20 hrs 35 mins      ███████████�
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
 <!-- just img -->
-<div align="center"><img width="250px" src="https://blog10000.oss-cn-shanghai.aliyuncs.com/img/202204221731145.gif"/></div>
+<div align="center"><img width="250px" src="https://image-myself.oss-cn-shanghai.aliyuncs.com/img/202204281435043.gif"/></div>
 
 <!-- plugin metrics -->
 <div align="center">
 <!--   <img src="https://cdn.jsdelivr.net/gh/markyin0707/markyin0707/plugin_metrics.svg" alt="plugin metrics" width="75%"/>  -->
   <img src="https://cdn.jsdelivr.net/gh/markyin0707/markyin0707/plugin_metrics.svg" width="75%"/>
-  <img src="https://blog10000.oss-cn-shanghai.aliyuncs.com/img/202204221713773.png"/>
+  <img src="https://image-myself.oss-cn-shanghai.aliyuncs.com/img/202204281435239.png"/>
 </div>
+
