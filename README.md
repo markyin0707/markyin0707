@@ -154,7 +154,6 @@
 * <a href='http://movie.douban.com/subject/3793783/' target='_blank'>看过地心引力</a> - 2022-04-22
 * <a href='http://movie.douban.com/subject/1889243/' target='_blank'>看过星际穿越</a> - 2022-04-22
 <!-- END_SECTION:douban -->
-  
 
 </td> 
 </tr>
@@ -162,9 +161,10 @@
 
 <!-- wakatime 统计 -->
 <table align="center">
-  <tr>
-    <td valign="top">  
-      <!--START_SECTION:waka-->
+<tr>
+<td valign="top">  
+
+<!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
 ```text
@@ -211,8 +211,9 @@ Windows                  23 hrs 49 mins      ███████████�
 
  Last Updated on 01/05/2022 04:34:00 UTC
 <!--END_SECTION:waka-->
-    </td>
-  </tr>
+
+</td>
+</tr>
 </table>
 
 <!-- GitHub Activity Graph -->
