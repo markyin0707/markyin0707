@@ -164,7 +164,7 @@
 <table align="center">
   <tr>
     <td valign="top">  
-    <!--START_SECTION:waka-->
+      <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
 ```text
@@ -210,7 +210,7 @@ Windows                  23 hrs 49 mins      ███████████�
 
 
  Last Updated on 01/05/2022 01:07:02 UTC
-<!--END_SECTION:waka-->
+      <!--END_SECTION:waka-->
     </td>
   </tr>
 </table>
