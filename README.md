@@ -131,7 +131,7 @@
 <tr>
 <td valign="top">    
 
-### 🤹‍♀️ <a href="https://sunguoqi.com/" target="_blank">Recent Blog</a>
+### 🤹‍♀️ <a href="https://markyin.cn/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
 
@@ -141,7 +141,7 @@
     
 <td valign="top">
 
-### 🤾‍♂️ <a href="https://www.douban.com/people/sun0225SUN/" target="_blank">Funny Soul</a>
+### 🤾‍♂️ <a href="https://www.douban.com/people/markyin0707/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
 * <a href='http://movie.douban.com/subject/3011235/' target='_blank'>看过哈利·波特与死亡圣器(下)</a> - 2022-04-22
