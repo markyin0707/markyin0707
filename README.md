@@ -36,8 +36,8 @@
 <div align="center">
 <a href="https://github.com/markyin0707/typora-activation">
   <img src=https://github-readme-stats.vercel.app/api/pin/?username=markyin0707&repo=typora-activation&theme=dark&bg_color=0d1117&hide_border=true></a>
-<a href="https://github.com/markyin0707/markyin0707.github.io">
-  <img src=https://github-readme-stats.vercel.app/api/pin/?username=markyin0707&repo=markyin0707.github.io&theme=dark&bg_color=0d1117&hide_border=true></a>
+<a href="https://github.com/markyin0707/calculator-javascript-study">
+  <img src=https://github-readme-stats.vercel.app/api/pin/?username=markyin0707&repo=calculator-javascript-study&theme=dark&bg_color=0d1117&hide_border=true></a>
 </div>
 
 
@@ -182,8 +182,8 @@ Tuesday      22 commits     ███░░░░░░░░░░░░░░�
 Wednesday    21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.29% 
 Thursday     22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.92% 
 Friday       18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.39% 
-Saturday     30 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.99% 
-Sunday       24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.19%
+Saturday     31 commits     █████░░░░░░░░░░░░░░░░░░░░   19.62% 
+Sunday       23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.56%
 
 ```
 
@@ -205,7 +205,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 26/09/2022 01:12:45 UTC
+ Last Updated on 25/09/2022 01:10:00 UTC
 <!--END_SECTION:waka-->
 
 </td>
