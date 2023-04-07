@@ -1,0 +1,17 @@
+name: Curl My Web
+
+on: [push]
+
+jobs:
+  curl-myweb:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: curlweb
+        run: |
+          for i in {1..100}
+          do
+              curl image.markyin.cn
+          done
