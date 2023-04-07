@@ -1,6 +1,8 @@
 name: Curl My Web
 
-on: [push]
+on: 
+  schedule:
+    - cron: '0 0 * * *'
 
 jobs:
   curl-myweb:
