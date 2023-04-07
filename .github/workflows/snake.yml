@@ -5,7 +5,7 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 */3 * *"
-  workflow_dispatch:
+  workflow_dispatch:  #手动运行workflow
 
 jobs:
   build:
