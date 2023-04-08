@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: '0 0 */3 * *'
   workflow_dispatch:  #手动运行workflows
+  
+  #推送就会运行
   #push:
   #  branches:
   #    - master
