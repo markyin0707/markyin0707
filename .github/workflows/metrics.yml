@@ -20,6 +20,14 @@ jobs:
         with:
           filename: profile-metrics/base_metrics.svg
           # Your GitHub token
+          # The following scopes are required:
+          #  - repo
+          #  - public_access (default scope)
+          # The following additional scopes may be required:
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
           user: markyin0707
@@ -27,8 +35,13 @@ jobs:
           config_timezone: Asia/Shanghai
           committer_message: ":rocket: Update by metrics"
           base: "header, activity, community, repositories"
-          plugin_traffic: yes
+          # plugin
+          plugin_gists: yes
           plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
+          plugin_traffic: yes
       
       # plugin metrics
       - name: plugin_metrics
