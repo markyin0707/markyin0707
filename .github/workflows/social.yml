@@ -14,7 +14,7 @@ jobs:
   update-social:
     runs-on: ubuntu-latest
     steps:
-      - uses: zylele/social-readme@master
+      - uses: zylele/social-readme@v2.0.0
         with:
           blog_rss_link: https://www.markyin.cn/atom.xml     #your blog rss link
           blog_limit: 5 # blog数量
