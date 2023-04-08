@@ -15,6 +15,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       
+      # 生成蛇，但是没有commit
       - name: Generate Snake
         uses: Platane/snk@v2.2.1 #在marketspace中generate-snake-game-from-github-contribution-grid
         with:
@@ -23,6 +24,7 @@ jobs:
             profile-snake-contrib/github-contribution-grid-snake.svg
             profile-snake-contrib/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      #将生成的蛇commit到github repository
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v9 #在marketplace中的add&commit
         with:
