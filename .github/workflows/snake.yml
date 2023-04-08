@@ -26,4 +26,4 @@ jobs:
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v9 #在marketplace中的add&commit
         with:
-          message: 'Generate Contribution Snake' #commit时候提交的消息
+          message: ':rocket: Update by Snake' #commit时候提交的消息
