@@ -18,14 +18,14 @@ jobs:
       - name: base_metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: base_metrics.svg
+          filename: profile-metrics/base_metrics.svg
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
           user: markyin0707
           template: classic
           config_timezone: Asia/Shanghai
-          committer_message: ":rocket: Update"
+          committer_message: ":rocket: Update by metrics"
           base: "header, activity, community, repositories"
           plugin_traffic: yes
           plugin_lines: yes
@@ -34,11 +34,11 @@ jobs:
       - name: plugin_metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: plugin_metrics.svg
+          filename: profile-metrics/plugin_metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: markyin0707
           template: classic
-          committer_message: ":rocket: Update"
+          committer_message: ":rocket: Update by metrics"
           base: ""
           config_timezone: Asia/Shanghai
           
