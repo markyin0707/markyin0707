@@ -20,10 +20,10 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/profile-snake-contrib/github-contribution-grid-snake.svg
-            dist/profile-snake-contrib/github-contribution-grid-snake-dark.svg?palette=github-dark
+            profile-snake-contrib/github-contribution-grid-snake.svg
+            profile-snake-contrib/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v9 #在marketplace中的add&commit
         with:
-          message: 'Commit from GitHub Actions (snake)' #commit时候提交的消息
+          message: 'Generate Contribution Snake' #commit时候提交的消息
