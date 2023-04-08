@@ -23,7 +23,7 @@ jobs:
             profile-snake-contrib/github-contribution-grid-snake.svg
             profile-snake-contrib/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@v9 #在marketplace中的add&commit
-        with:
-          message: ':rocket: Update by Snake' #commit时候提交的消息
+      #- name: Push to GitHub
+        #uses: EndBug/add-and-commit@v9 #在marketplace中的add&commit
+        #with:
+          #message: ':rocket: Update by Snake' #commit时候提交的消息
