@@ -14,7 +14,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      # base metrics
+      # base metrics（几个基础的metrics）
       - name: base_metrics
         uses: lowlighter/metrics@latest
         with:
@@ -43,7 +43,7 @@ jobs:
           plugin_lines_sections: base
           plugin_traffic: yes
       
-      # plugin metrics
+      # plugin metrics（一些丰富功能的metrics插件）
       - name: plugin_metrics
         uses: lowlighter/metrics@latest
         with:
