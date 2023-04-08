@@ -10,8 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@latest #使用最新版本的检查代码
-      - uses: yoshi389111/github-profile-3d-contrib@latest #使用该仓库最新的版本
+      - uses: actions/checkout@3
+      - uses: yoshi389111/github-profile-3d-contrib@2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
