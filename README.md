@@ -106,7 +106,7 @@
 
 <!-- metrics 基础资料 -->
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/markyin0707/markyin0707/base_metrics.svg" alt="base metrics" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/markyin0707/markyin0707/profile-metrics/base_metrics.svg" alt="base metrics" /></div>
 
 <br>
 
@@ -225,7 +225,7 @@ No Activity Tracked This Week
 
 <!-- plugin metrics -->
 <div align="center">
-<!--   <img src="https://cdn.jsdelivr.net/gh/markyin0707/markyin0707/plugin_metrics.svg" alt="plugin metrics" width="75%"/>  -->
+<!--   <img src="https://cdn.jsdelivr.net/gh/markyin0707/markyin0707/profile-metrics/plugin_metrics.svg" alt="plugin metrics" width="75%"/>  -->
   <img src="https://cdn.jsdelivr.net/gh/markyin0707/markyin0707/plugin_metrics.svg" width="75%"/>
   <img src="https://image-myself.oss-cn-shanghai.aliyuncs.com/img/202204281435239.png"/>
 </div>
