@@ -24,7 +24,7 @@
   <a href="https://www.zhihu.com/people/smile-65-40-11"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
 <!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=markyin0707" alt="访客统计" /></div>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=markyin0707.visitor-badge" alt="访客统计" /></div>
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/markyin0707/markyin0707/profile-snake-contrib/github-contribution-grid-snake.svg" /></div>
@@ -33,10 +33,11 @@
 <p>✍️&nbsp;&nbsp;Hello everyone, I'm Mark🧑‍💻, studying in Qilu University of Technology. I love computer science and Internet, and I want to become a senior programmer! My personal website is <a href="www.markyin.cn">www.markyin.cn</a> , welcome to discuss and learn. We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 </p>
 
-<!-- 比较好的开源项目卡片 -->
+<!-- 比较好的自己的开源项目卡片 -->
 <div align="center">
 <a href="https://github.com/markyin0707/typora-activation">
   <img src=https://github-readme-stats.vercel.app/api/pin/?username=markyin0707&repo=typora-activation&theme=dark&bg_color=0d1117&hide_border=true></a>
+<br>
 <a href="https://github.com/markyin0707/calculator-javascript-study">
   <img src=https://github-readme-stats.vercel.app/api/pin/?username=markyin0707&repo=calculator-javascript-study&theme=dark&bg_color=0d1117&hide_border=true></a>
 </div>
@@ -208,13 +209,13 @@ No Activity Tracked This Week
 
 </td>
 </tr>
-</table>
 
+</table>
 <!-- GitHub Activity Graph -->
 <table align="center">
   <tr>
     <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=markyin0707&theme=xcode&bg_color=FF000000&hide_border=true" />
+      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=markyin0707&theme=rogue" />
     </td>
   </tr>
 </table>
