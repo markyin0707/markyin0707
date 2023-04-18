@@ -232,8 +232,7 @@ Windows                  1 hr 41 mins        ███████████�
 
 <!-- plugin metrics -->
 <div align="center">
-<!--   <img src="https://cdn.jsdelivr.net/gh/markyin0707/markyin0707/profile-metrics/plugin_metrics.svg" alt="plugin metrics" width="75%"/>  -->
-  <img src="https://cdn.jsdelivr.net/gh/markyin0707/markyin0707/plugin_metrics.svg" width="75%"/>
+  <img src="https://cdn.jsdelivr.net/gh/markyin0707/markyin0707/profile-metrics/plugin_metrics.svg" alt="plugin_metrics" width="75%"/>
   <img src="https://image-myself.oss-cn-shanghai.aliyuncs.com/img/202204281435239.png"/>
 </div>
 
