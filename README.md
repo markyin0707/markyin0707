@@ -31,13 +31,15 @@
 <p>✍️&nbsp;&nbsp;Hello everyone, I'm Mark🧑‍💻, studying in Qilu University of Technology. I love computer science and Internet, and I want to become a senior programmer! My personal website is <a href="www.markyin.cn">www.markyin.cn</a> , welcome to discuss and learn. We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 </p>
 
-<!-- 比较好的自己的开源项目卡片 -->
+<!-- 比较好的自己的开源项目卡片(用SUN的API) -->
 <div align="center">
 <a href="https://github.com/markyin0707/typora-activation">
-  <img src=https://github-readme-stats.vercel.app/api/pin/?username=markyin0707&repo=typora-activation&theme=dark&bg_color=0d1117&hide_border=true></a>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=markyin0707&repo=typora-activation&theme=dark&bg_color=121212&hide_border=true" />
+</a>
 <br>
 <a href="https://github.com/markyin0707/calculator-javascript-study">
-  <img src=https://github-readme-stats.vercel.app/api/pin/?username=markyin0707&repo=calculator-javascript-study&theme=dark&bg_color=0d1117&hide_border=true></a>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=markyin0707&repo=calculator-javascript-study&theme=dark&bg_color=121212&hide_border=true" />
+</a>
 </div>
 
 
