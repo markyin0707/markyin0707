@@ -32,7 +32,7 @@
 </p>
 
 <!-- 比较好的自己的开源项目卡片 -->
-<!-- 暂用的rickstaa的API 项目中的issue#2400 -->
+<!-- 暂用的rickstaa的API,源项目中的PR#2400中被修复(但又出现了) -->
 <div align="center">
 <a href="https://github.com/markyin0707/typora-activation">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=markyin0707&repo=typora-activation&theme=dark&bg_color=121212&hide_border=true" />
