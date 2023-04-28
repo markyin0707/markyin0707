@@ -1,19 +1,17 @@
 <!-- 动态打字效果 -->
-
 <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://www.markyin.cn/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22); Welcome！&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
-<!-- 敲代码的图片 -->
 
+<!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://image-myself.oss-cn-shanghai.aliyuncs.com/img/202204281433870.GIF"></div>
 
 <br>
 
 <!-- 个人资料徽标 -->
-
 <div align="center">
   <a href="https://www.markyin.cn"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
   <a href="https://twitter.com/markyin0707/"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
@@ -107,7 +105,6 @@
 <br>
 
 <!-- metrics 基础资料 -->
-
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/markyin0707/markyin0707/profile-metrics/base_metrics.svg" alt="base metrics" /></div>
 
 <br>
