@@ -20,6 +20,9 @@
   <a href="https://blog.csdn.net/weixin_63523162?type=blog"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
   <a href="https://space.bilibili.com/534688871"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://www.zhihu.com/people/smile-65-40-11"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
+  <br>
+  <!-- wakatime 代码时间统计 -->
+  <a href="https://wakatime.com/@3766a85e-b5a4-4b7d-8938-01619e4579c8"><img src="https://wakatime.com/badge/user/3766a85e-b5a4-4b7d-8938-01619e4579c8.svg" alt="Total time coded since Apr 22 2022" /></a>
 </div>
 
 <!-- 贪吃蛇代码贡献图 -->
