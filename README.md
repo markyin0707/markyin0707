@@ -153,11 +153,7 @@
 ### 🤾‍♂️ <a href="https://www.douban.com/people/markyin0707/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-* <a href='http://movie.douban.com/subject/35267208/' target='_blank'>看过流浪地球2</a> - 2023-02-04
-* <a href='http://movie.douban.com/subject/26649682/' target='_blank'>看过深海</a> - 2023-02-04
-* <a href='http://movie.douban.com/subject/3011235/' target='_blank'>看过哈利·波特与死亡圣器(下)</a> - 2022-04-22
-* <a href='http://movie.douban.com/subject/25728006/' target='_blank'>看过速度与激情9</a> - 2022-04-22
-* <a href='https://music.douban.com/subject/26987521/' target='_blank'>听过耿耿于怀</a> - 2022-04-22
+
 <!-- END_SECTION:douban -->
 
 </td> 
