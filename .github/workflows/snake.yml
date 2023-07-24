@@ -17,7 +17,7 @@ jobs:
       
       # 生成蛇，但是没有commit
       - name: Generate Snake
-        uses: Platane/snk@v2.2.1 #在marketspace中generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk/svg-only@v3 #在marketspace中generate-snake-game-from-github-contribution-grid
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
