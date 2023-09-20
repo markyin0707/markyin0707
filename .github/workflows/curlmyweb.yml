@@ -6,17 +6,32 @@ on:
   workflow_dispatch:
 
 jobs:
-  curl-myweb:
-    runs-on: ubuntu-latest
-    steps:
-    
-      #检查代码
-      #- name: Checkout code
-      #  uses: actions/checkout@v3
-
-      - name: curlweb
-        run: |
-          for i in {1..100}
-          do
-              curl image.markyin.cn
-          done
+  job1:
+      runs-on: ubuntu-latest
+      steps:
+      
+        #检查代码
+        #- name: Checkout code
+        #  uses: actions/checkout@v3
+  
+        - name: curlweb
+          run: |
+            for i in {1..100}
+            do
+                curl image.markyin.cn
+            done
+  job2:
+      runs-on: ubuntu-latest
+      steps:
+      
+        #检查代码
+        #- name: Checkout code
+        #  uses: actions/checkout@v3
+  
+        - name: curlweb
+          run: |
+            for i in {1..100}
+            do
+                curl image.markyin.cn
+            done
+  
