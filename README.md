@@ -153,11 +153,11 @@
 ### 🤾‍♂️ <a href="https://www.douban.com/people/markyin0707/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/1086833/' target='_blank'>想读数据库系统概论（第三版）</a> - 2024-01-27
-* <a href='http://movie.douban.com/subject/35267208/' target='_blank'>看过流浪地球2</a> - 2023-02-04
-* <a href='http://movie.douban.com/subject/26649682/' target='_blank'>看过深海</a> - 2023-02-04
-* <a href='http://movie.douban.com/subject/3011235/' target='_blank'>看过哈利·波特与死亡圣器(下)</a> - 2022-04-22
-* <a href='http://movie.douban.com/subject/25728006/' target='_blank'>看过速度与激情9</a> - 2022-04-22
+* <a href='http://movie.douban.com/subject/27119724/' target='_blank'>想看小丑</a> - 2024-02-16
+* <a href='http://movie.douban.com/subject/1292213/' target='_blank'>看过大话西游之大圣娶亲</a> - 2024-02-16
+* <a href='http://movie.douban.com/subject/1300267/' target='_blank'>想看乱世佳人</a> - 2024-02-16
+* <a href='http://movie.douban.com/subject/1292722/' target='_blank'>看过泰坦尼克号</a> - 2024-02-16
+* <a href='http://movie.douban.com/subject/1291571/' target='_blank'>看过指环王1：护戒使者</a> - 2024-02-16
 <!-- END_SECTION:douban -->
 
 </td> 
