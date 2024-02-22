@@ -153,11 +153,11 @@
 ### 🤾‍♂️ <a href="https://www.douban.com/people/markyin0707/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/2131459/' target='_blank'>看过机器人总动员</a> - 2024-02-20
+* <a href='http://movie.douban.com/subject/1291561/' target='_blank'>看过千与千寻</a> - 2024-02-19
+* <a href='http://movie.douban.com/subject/1297447/' target='_blank'>想看倩女幽魂</a> - 2024-02-19
 * <a href='http://movie.douban.com/subject/27119724/' target='_blank'>想看小丑</a> - 2024-02-16
 * <a href='http://movie.douban.com/subject/1292213/' target='_blank'>看过大话西游之大圣娶亲</a> - 2024-02-16
-* <a href='http://movie.douban.com/subject/1300267/' target='_blank'>想看乱世佳人</a> - 2024-02-16
-* <a href='http://movie.douban.com/subject/1292722/' target='_blank'>看过泰坦尼克号</a> - 2024-02-16
-* <a href='http://movie.douban.com/subject/1291571/' target='_blank'>看过指环王1：护戒使者</a> - 2024-02-16
 <!-- END_SECTION:douban -->
 
 </td> 
