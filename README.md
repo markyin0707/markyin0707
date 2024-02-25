@@ -153,11 +153,11 @@
 ### 🤾‍♂️ <a href="https://www.douban.com/people/markyin0707/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-* <a href='http://movie.douban.com/subject/2131459/' target='_blank'>看过机器人总动员</a> - 2024-02-20
-* <a href='http://movie.douban.com/subject/1291561/' target='_blank'>看过千与千寻</a> - 2024-02-19
-* <a href='http://movie.douban.com/subject/1297447/' target='_blank'>想看倩女幽魂</a> - 2024-02-19
-* <a href='http://movie.douban.com/subject/27119724/' target='_blank'>想看小丑</a> - 2024-02-16
-* <a href='http://movie.douban.com/subject/1292213/' target='_blank'>看过大话西游之大圣娶亲</a> - 2024-02-16
+* <a href='http://movie.douban.com/subject/3445906/' target='_blank'>看过古墓丽影：源起之战</a> - 2024-02-22
+* <a href='http://movie.douban.com/subject/25797778/' target='_blank'>想看冰川时代5：星际碰撞</a> - 2024-02-22
+* <a href='http://movie.douban.com/subject/24815950/' target='_blank'>想看万物理论</a> - 2024-02-22
+* <a href='http://movie.douban.com/subject/7065154/' target='_blank'>想看银河护卫队</a> - 2024-02-22
+* <a href='http://movie.douban.com/subject/1853176/' target='_blank'>想看斯巴达300勇士</a> - 2024-02-22
 <!-- END_SECTION:douban -->
 
 </td> 
