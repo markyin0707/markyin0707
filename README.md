@@ -153,11 +153,11 @@
 ### 🤾‍♂️ <a href="https://www.douban.com/people/markyin0707/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/36284266/' target='_blank'>想读史蒂夫·乔布斯传（典藏版）</a> - 2024-03-25
+* <a href='https://book.douban.com/subject/26689045/' target='_blank'>想读了不起的盖茨比</a> - 2024-03-25
 * <a href='https://book.douban.com/subject/27186106/' target='_blank'>想读心流</a> - 2024-03-22
 * <a href='https://book.douban.com/subject/33456955/' target='_blank'>读过怖客</a> - 2024-03-22
 * <a href='http://movie.douban.com/subject/3445906/' target='_blank'>看过古墓丽影：源起之战</a> - 2024-02-22
-* <a href='http://movie.douban.com/subject/25797778/' target='_blank'>想看冰川时代5：星际碰撞</a> - 2024-02-22
-* <a href='http://movie.douban.com/subject/24815950/' target='_blank'>想看万物理论</a> - 2024-02-22
 <!-- END_SECTION:douban -->
 
 </td> 
