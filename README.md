@@ -218,7 +218,7 @@ No Activity Tracked This Week
 <table align="center">
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=markyin0707&theme=rogue" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=markyin0707&theme=high-contrast" />
     </td>
   </tr>
 </table>
