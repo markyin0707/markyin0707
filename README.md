@@ -139,11 +139,11 @@
 ### 🤹‍♀️ <a href="https://markyin.cn/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
+* <a href='https://www.markyin.cn/article/2684df30' target='_blank'>学习计算机专业书籍的方法</a> - 2024-04-03
 * <a href='https://www.markyin.cn/article/4d335011' target='_blank'>VMnet0和VMnet1和VMnet8的区别</a> - 2024-04-02
 * <a href='https://www.markyin.cn/article/a034bca7' target='_blank'>了解最经典的非对称加密算法RSA</a> - 2024-04-02
 * <a href='https://www.markyin.cn/article/912c78ad' target='_blank'>计算机中一些易混淆名词的区别</a> - 2024-04-02
 * <a href='https://www.markyin.cn/article/411a77ea' target='_blank'>基站是如何区分不同的手机信号的</a> - 2024-04-02
-* <a href='https://www.markyin.cn/article/1b18f8fb' target='_blank'>如何让没有WWW的网站跳转到带有WWW的网站</a> - 2023-04-10
 <!-- END_SECTION:blog -->
 
 </td>
@@ -153,11 +153,11 @@
 ### 🤾‍♂️ <a href="https://www.douban.com/people/markyin0707/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/36284266/' target='_blank'>想读史蒂夫·乔布斯传（典藏版）</a> - 2024-03-25
-* <a href='https://book.douban.com/subject/26689045/' target='_blank'>想读了不起的盖茨比</a> - 2024-03-25
-* <a href='https://book.douban.com/subject/27186106/' target='_blank'>想读心流</a> - 2024-03-22
-* <a href='https://book.douban.com/subject/33456955/' target='_blank'>读过怖客</a> - 2024-03-22
-* <a href='http://movie.douban.com/subject/3445906/' target='_blank'>看过古墓丽影：源起之战</a> - 2024-02-22
+* <a href='https://book.douban.com/subject/26665230/' target='_blank'>想读硅谷之谜</a> - 2024-04-06
+* <a href='https://book.douban.com/subject/25962840/' target='_blank'>想读反欺骗的艺术</a> - 2024-04-06
+* <a href='https://book.douban.com/subject/25962826/' target='_blank'>想读反入侵的艺术——黑客入侵背后的真实故事</a> - 2024-04-06
+* <a href='https://book.douban.com/subject/25788945/' target='_blank'>想读线上幽灵</a> - 2024-04-06
+* <a href='https://book.douban.com/subject/36454937/' target='_blank'>想读就业蓝皮书：2023年中国高职生就业报告</a> - 2024-04-06
 <!-- END_SECTION:douban -->
 
 </td> 
