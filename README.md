@@ -153,11 +153,11 @@
 ### 🤾‍♂️ <a href="https://www.douban.com/people/markyin0707/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/26665230/' target='_blank'>想读硅谷之谜</a> - 2024-04-06
-* <a href='https://book.douban.com/subject/25962840/' target='_blank'>想读反欺骗的艺术</a> - 2024-04-06
-* <a href='https://book.douban.com/subject/25962826/' target='_blank'>想读反入侵的艺术——黑客入侵背后的真实故事</a> - 2024-04-06
-* <a href='https://book.douban.com/subject/25788945/' target='_blank'>想读线上幽灵</a> - 2024-04-06
-* <a href='https://book.douban.com/subject/36454937/' target='_blank'>想读就业蓝皮书：2023年中国高职生就业报告</a> - 2024-04-06
+* <a href='https://book.douban.com/subject/34782541/' target='_blank'>想读从一到无穷大</a> - 2024-04-09
+* <a href='https://book.douban.com/subject/26954744/' target='_blank'>想读人性的弱点</a> - 2024-04-08
+* <a href='https://book.douban.com/subject/30135708/' target='_blank'>想读时间简史</a> - 2024-04-07
+* <a href='http://movie.douban.com/subject/1291552/' target='_blank'>看过指环王3：王者无敌</a> - 2024-04-07
+* <a href='http://movie.douban.com/subject/1291572/' target='_blank'>看过指环王2：双塔奇兵</a> - 2024-04-07
 <!-- END_SECTION:douban -->
 
 </td> 
