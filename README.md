@@ -153,11 +153,11 @@
 ### 🤾‍♂️ <a href="https://www.douban.com/people/markyin0707/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/35153840/' target='_blank'>想读欲望的演化（最新修订版）</a> - 2024-04-14
+* <a href='https://book.douban.com/subject/34848957/' target='_blank'>想读格局</a> - 2024-04-14
 * <a href='https://book.douban.com/subject/26831789/' target='_blank'>想读穷查理宝典</a> - 2024-04-13
 * <a href='https://book.douban.com/subject/25768304/' target='_blank'>想读社会工程</a> - 2024-04-12
 * <a href='https://book.douban.com/subject/34782541/' target='_blank'>想读从一到无穷大</a> - 2024-04-09
-* <a href='https://book.douban.com/subject/26954744/' target='_blank'>想读人性的弱点</a> - 2024-04-08
-* <a href='https://book.douban.com/subject/30135708/' target='_blank'>想读时间简史</a> - 2024-04-07
 <!-- END_SECTION:douban -->
 
 </td> 
