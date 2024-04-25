@@ -153,11 +153,11 @@
 ### 🤾‍♂️ <a href="https://www.douban.com/people/markyin0707/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35795029/' target='_blank'>想读奢侈的</a> - 2024-04-21
-* <a href='https://book.douban.com/subject/35153840/' target='_blank'>想读欲望的演化（最新修订版）</a> - 2024-04-14
-* <a href='https://book.douban.com/subject/34848957/' target='_blank'>想读格局</a> - 2024-04-14
-* <a href='https://book.douban.com/subject/26831789/' target='_blank'>想读穷查理宝典</a> - 2024-04-13
-* <a href='https://book.douban.com/subject/25768304/' target='_blank'>想读社会工程</a> - 2024-04-12
+* <a href='https://book.douban.com/subject/26846606/' target='_blank'>想读品格之路</a> - 2024-04-24
+* <a href='https://book.douban.com/subject/24756568/' target='_blank'>想读家族财富</a> - 2024-04-24
+* <a href='https://book.douban.com/subject/1072438/' target='_blank'>想读大败局</a> - 2024-04-23
+* <a href='https://book.douban.com/subject/3024133/' target='_blank'>想读巴菲特之道</a> - 2024-04-23
+* <a href='https://book.douban.com/subject/3200835/' target='_blank'>想读巴菲特法则</a> - 2024-04-23
 <!-- END_SECTION:douban -->
 
 </td> 
