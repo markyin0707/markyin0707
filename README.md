@@ -153,11 +153,11 @@
 ### 🤾‍♂️ <a href="https://www.douban.com/people/markyin0707/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/26846606/' target='_blank'>想读品格之路</a> - 2024-04-24
-* <a href='https://book.douban.com/subject/24756568/' target='_blank'>想读家族财富</a> - 2024-04-24
-* <a href='https://book.douban.com/subject/1072438/' target='_blank'>想读大败局</a> - 2024-04-23
-* <a href='https://book.douban.com/subject/3024133/' target='_blank'>想读巴菲特之道</a> - 2024-04-23
-* <a href='https://book.douban.com/subject/3200835/' target='_blank'>想读巴菲特法则</a> - 2024-04-23
+* <a href='https://book.douban.com/subject/36670487/' target='_blank'>想读乌合之众</a> - 2024-04-27
+* <a href='https://book.douban.com/subject/27071766/' target='_blank'>想读人性的优点(全译本)</a> - 2024-04-26
+* <a href='https://book.douban.com/subject/35178861/' target='_blank'>想读异类</a> - 2024-04-26
+* <a href='https://book.douban.com/subject/27068091/' target='_blank'>想读国富论</a> - 2024-04-26
+* <a href='https://book.douban.com/subject/30424140/' target='_blank'>想读伟大的博弈</a> - 2024-04-26
 <!-- END_SECTION:douban -->
 
 </td> 
