@@ -153,11 +153,11 @@
 ### 🤾‍♂️ <a href="https://www.douban.com/people/markyin0707/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/30259720/' target='_blank'>想读今日简史</a> - 2024-04-29
+* <a href='http://movie.douban.com/subject/3205624/' target='_blank'>想看社交网络</a> - 2024-04-29
+* <a href='https://book.douban.com/subject/35350092/' target='_blank'>想读征服市场的人</a> - 2024-04-28
 * <a href='https://book.douban.com/subject/36670487/' target='_blank'>想读乌合之众</a> - 2024-04-27
 * <a href='https://book.douban.com/subject/27071766/' target='_blank'>想读人性的优点(全译本)</a> - 2024-04-26
-* <a href='https://book.douban.com/subject/35178861/' target='_blank'>想读异类</a> - 2024-04-26
-* <a href='https://book.douban.com/subject/27068091/' target='_blank'>想读国富论</a> - 2024-04-26
-* <a href='https://book.douban.com/subject/30424140/' target='_blank'>想读伟大的博弈</a> - 2024-04-26
 <!-- END_SECTION:douban -->
 
 </td> 
