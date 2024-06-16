@@ -153,11 +153,11 @@
 ### 🤾‍♂️ <a href="https://www.douban.com/people/markyin0707/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/1864810/' target='_blank'>想看红楼梦</a> - 2024-06-16
+* <a href='https://book.douban.com/subject/1007305/' target='_blank'>想读红楼梦</a> - 2024-06-14
 * <a href='https://book.douban.com/subject/3022364/' target='_blank'>想读印度愛經</a> - 2024-05-18
 * <a href='https://book.douban.com/subject/30164652/' target='_blank'>想读我的一生</a> - 2024-05-18
 * <a href='https://book.douban.com/subject/26752026/' target='_blank'>想读聪明的投资者（第4版注疏点评版）</a> - 2024-05-16
-* <a href='https://book.douban.com/subject/6714021/' target='_blank'>想读本杰明·富兰克林自传</a> - 2024-05-06
-* <a href='https://book.douban.com/subject/30164963/' target='_blank'>想读巴菲特致股东的信 (原书第4版)</a> - 2024-05-05
 <!-- END_SECTION:douban -->
 
 </td> 
