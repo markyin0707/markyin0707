@@ -157,7 +157,7 @@
 * <a href='https://book.douban.com/subject/35365678/' target='_blank'>想读裸猿</a> - 2024-06-16
 * <a href='https://book.douban.com/subject/30290031/' target='_blank'>想读自私的基因</a> - 2024-06-16
 * <a href='https://book.douban.com/subject/34918510/' target='_blank'>想读我们为何结婚，又为何不忠</a> - 2024-06-16
-* <a href='https://book.douban.com/subject/1007305/' target='_blank'>想读红楼梦</a> - 2024-06-14
+* <a href='http://movie.douban.com/subject/1864810/' target='_blank'>想看红楼梦</a> - 2024-06-16
 <!-- END_SECTION:douban -->
 
 </td> 
