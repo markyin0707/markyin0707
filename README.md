@@ -153,11 +153,11 @@
 ### 🤾‍♂️ <a href="https://www.douban.com/people/markyin0707/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/36071180/' target='_blank'>想读领袖们</a> - 2024-07-20
+* <a href='http://movie.douban.com/subject/1293785/' target='_blank'>想看阿波罗13号</a> - 2024-07-20
+* <a href='https://book.douban.com/subject/35680673/' target='_blank'>想读爱，需要学习</a> - 2024-07-19
 * <a href='https://book.douban.com/subject/1016953/' target='_blank'>想读宇宙最初三分钟</a> - 2024-07-18
 * <a href='https://book.douban.com/subject/26820506/' target='_blank'>想读给世界的答案</a> - 2024-07-18
-* <a href='https://book.douban.com/subject/30151207/' target='_blank'>想读文明之光</a> - 2024-07-18
-* <a href='https://book.douban.com/subject/26838557/' target='_blank'>想读智能时代</a> - 2024-07-18
-* <a href='http://movie.douban.com/subject/1293399/' target='_blank'>想看莫扎特传</a> - 2024-07-17
 <!-- END_SECTION:douban -->
 
 </td> 
