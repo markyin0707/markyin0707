@@ -153,11 +153,7 @@
 ### 🤾‍♂️ <a href="https://www.douban.com/people/markyin0707/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/36905183/' target='_blank'>想读历史的温度</a> - 2024-08-19
-* <a href='https://book.douban.com/subject/26960573/' target='_blank'>想读野蛮生长</a> - 2024-08-19
-* <a href='https://book.douban.com/subject/26576861/' target='_blank'>想读最好的告别</a> - 2024-08-19
-* <a href='https://book.douban.com/subject/30424140/' target='_blank'>读过伟大的博弈</a> - 2024-08-03
-* <a href='https://book.douban.com/subject/33474750/' target='_blank'>读过浪潮之巅 (第四版)</a> - 2024-08-03
+
 <!-- END_SECTION:douban -->
 
 </td> 
