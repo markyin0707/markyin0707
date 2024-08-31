@@ -153,7 +153,11 @@
 ### 🤾‍♂️ <a href="https://www.douban.com/people/markyin0707/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-
+* <a href='https://book.douban.com/subject/2973007/' target='_blank'>想读世界上最伟大的家族企业</a> - 2024-08-29
+* <a href='https://book.douban.com/subject/10785670/' target='_blank'>想读曾国藩家书</a> - 2024-08-26
+* <a href='https://book.douban.com/subject/25832863/' target='_blank'>想读影响人类历史进程的100名人排行榜（修订版）</a> - 2024-08-26
+* <a href='https://book.douban.com/subject/33464429/' target='_blank'>想读重新定义公司</a> - 2024-08-26
+* <a href='https://book.douban.com/subject/36084730/' target='_blank'>想读希腊神话（全三册）</a> - 2024-08-26
 <!-- END_SECTION:douban -->
 
 </td> 
