@@ -153,11 +153,11 @@
 ### 🤾‍♂️ <a href="https://www.douban.com/people/markyin0707/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/1822539/' target='_blank'>想读彭博商业周刊</a> - 2024-09-04
-* <a href='https://book.douban.com/subject/2996144/' target='_blank'>想读第一财经周刊</a> - 2024-09-04
-* <a href='https://book.douban.com/subject/2973007/' target='_blank'>想读世界上最伟大的家族企业</a> - 2024-08-29
-* <a href='https://book.douban.com/subject/10785670/' target='_blank'>想读曾国藩家书</a> - 2024-08-26
-* <a href='https://book.douban.com/subject/25832863/' target='_blank'>想读影响人类历史进程的100名人排行榜（修订版）</a> - 2024-08-26
+* <a href='http://movie.douban.com/subject/1305487/' target='_blank'>想看猫鼠游戏</a> - 2024-09-09
+* <a href='http://movie.douban.com/subject/1827042/' target='_blank'>想看伊丽莎白2：黄金时代</a> - 2024-09-09
+* <a href='http://movie.douban.com/subject/1292550/' target='_blank'>想看埃及艳后</a> - 2024-09-09
+* <a href='https://book.douban.com/subject/27004072/' target='_blank'>想读财新周刊</a> - 2024-09-08
+* <a href='https://book.douban.com/subject/1914768/' target='_blank'>想读证券市场周刊</a> - 2024-09-08
 <!-- END_SECTION:douban -->
 
 </td> 
