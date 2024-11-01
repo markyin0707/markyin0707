@@ -153,7 +153,11 @@
 ### 🤾‍♂️ <a href="https://www.douban.com/people/markyin0707/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-
+* <a href='http://movie.douban.com/subject/3006123/' target='_blank'>想看星河战队3：掠夺者</a> - 2024-10-27
+* <a href='http://movie.douban.com/subject/6793337/' target='_blank'>想看电影史话</a> - 2024-10-27
+* <a href='https://book.douban.com/subject/35641088/' target='_blank'>想读计算之魂</a> - 2024-10-17
+* <a href='https://book.douban.com/subject/27153416/' target='_blank'>想读共同基金常识</a> - 2024-09-18
+* <a href='http://movie.douban.com/subject/1305487/' target='_blank'>想看猫鼠游戏</a> - 2024-09-09
 <!-- END_SECTION:douban -->
 
 </td> 
