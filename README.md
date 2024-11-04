@@ -139,11 +139,7 @@
 ### 🤹‍♀️ <a href="https://markyin.cn/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
-* <a href='https://www.markyin.cn/article/2684df30' target='_blank'>学习计算机专业书籍的方法</a> - 2024-04-03
-* <a href='https://www.markyin.cn/article/4d335011' target='_blank'>VMnet0和VMnet1和VMnet8的区别</a> - 2024-04-02
-* <a href='https://www.markyin.cn/article/a034bca7' target='_blank'>了解最经典的非对称加密算法RSA</a> - 2024-04-02
-* <a href='https://www.markyin.cn/article/912c78ad' target='_blank'>计算机中一些易混淆名词的区别</a> - 2024-04-02
-* <a href='https://www.markyin.cn/article/411a77ea' target='_blank'>基站是如何区分不同的手机信号的</a> - 2024-04-02
+
 <!-- END_SECTION:blog -->
 
 </td>
@@ -153,11 +149,11 @@
 ### 🤾‍♂️ <a href="https://www.douban.com/people/markyin0707/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/1322455/' target='_blank'>想读遥远的救世主</a> - 2024-11-01
+* <a href='http://movie.douban.com/subject/2347485/' target='_blank'>想看天道</a> - 2024-11-01
 * <a href='http://movie.douban.com/subject/3006123/' target='_blank'>想看星河战队3：掠夺者</a> - 2024-10-27
 * <a href='http://movie.douban.com/subject/6793337/' target='_blank'>想看电影史话</a> - 2024-10-27
 * <a href='https://book.douban.com/subject/35641088/' target='_blank'>想读计算之魂</a> - 2024-10-17
-* <a href='https://book.douban.com/subject/27153416/' target='_blank'>想读共同基金常识</a> - 2024-09-18
-* <a href='http://movie.douban.com/subject/1305487/' target='_blank'>想看猫鼠游戏</a> - 2024-09-09
 <!-- END_SECTION:douban -->
 
 </td> 
