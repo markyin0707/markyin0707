@@ -149,11 +149,11 @@
 ### 🤾‍♂️ <a href="https://www.douban.com/people/markyin0707/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/6804373/' target='_blank'>想看楚汉传奇</a> - 2024-11-09
+* <a href='http://movie.douban.com/subject/25850443/' target='_blank'>想看史蒂夫·乔布斯</a> - 2024-11-08
 * <a href='https://book.douban.com/subject/1322455/' target='_blank'>想读遥远的救世主</a> - 2024-11-01
 * <a href='http://movie.douban.com/subject/2347485/' target='_blank'>想看天道</a> - 2024-11-01
 * <a href='http://movie.douban.com/subject/3006123/' target='_blank'>想看星河战队3：掠夺者</a> - 2024-10-27
-* <a href='http://movie.douban.com/subject/6793337/' target='_blank'>想看电影史话</a> - 2024-10-27
-* <a href='https://book.douban.com/subject/35641088/' target='_blank'>想读计算之魂</a> - 2024-10-17
 <!-- END_SECTION:douban -->
 
 </td> 
