@@ -149,11 +149,7 @@
 ### 🤾‍♂️ <a href="https://www.douban.com/people/markyin0707/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/30294357/' target='_blank'>想读倾城之恋</a> - 2024-11-15
-* <a href='http://movie.douban.com/subject/3882715/' target='_blank'>想看武林外传</a> - 2024-11-13
-* <a href='http://movie.douban.com/subject/2248757/' target='_blank'>想看铁齿铜牙纪晓岚</a> - 2024-11-13
-* <a href='http://movie.douban.com/subject/3060442/' target='_blank'>想看小明和王猫</a> - 2024-11-13
-* <a href='http://movie.douban.com/subject/2252766/' target='_blank'>想看卧薪尝胆</a> - 2024-11-13
+
 <!-- END_SECTION:douban -->
 
 </td> 
