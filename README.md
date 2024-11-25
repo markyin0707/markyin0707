@@ -149,11 +149,11 @@
 ### 🤾‍♂️ <a href="https://www.douban.com/people/markyin0707/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> - 2024-11-24
+* <a href='http://movie.douban.com/subject/26786669/' target='_blank'>想看决战中途岛</a> - 2024-11-24
 * <a href='http://movie.douban.com/subject/1917796/' target='_blank'>想看征服</a> - 2024-11-20
 * <a href='http://movie.douban.com/subject/25864085/' target='_blank'>看过火星救援</a> - 2024-11-17
 * <a href='http://movie.douban.com/subject/27073291/' target='_blank'>看过太空救援</a> - 2024-11-17
-* <a href='https://book.douban.com/subject/30294357/' target='_blank'>想读倾城之恋</a> - 2024-11-15
-* <a href='http://movie.douban.com/subject/3882715/' target='_blank'>想看武林外传</a> - 2024-11-13
 <!-- END_SECTION:douban -->
 
 </td> 
