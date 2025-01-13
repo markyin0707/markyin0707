@@ -153,11 +153,11 @@
 ### 🤾‍♂️ <a href="https://www.douban.com/people/markyin0707/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/1007305/' target='_blank'>读过红楼梦</a> - 2025-01-11
 * <a href='https://book.douban.com/subject/26586149/' target='_blank'>想读国富论</a> - 2025-01-07
 * <a href='http://movie.douban.com/subject/2210001/' target='_blank'>想看大明王朝1566</a> - 2024-12-29
 * <a href='http://movie.douban.com/subject/4922787/' target='_blank'>想看后宫·甄嬛传</a> - 2024-12-29
 * <a href='https://book.douban.com/subject/35050614/' target='_blank'>想读我的二本学生</a> - 2024-11-25
-* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> - 2024-11-24
 <!-- END_SECTION:douban -->
 
 </td> 
