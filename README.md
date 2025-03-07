@@ -139,11 +139,7 @@
 ### 🤹‍♀️ <a href="https://markyin.cn/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
-* <a href='https://www.markyin.cn/article/2684df30' target='_blank'>学习计算机专业书籍的方法</a> - 2024-04-03
-* <a href='https://www.markyin.cn/article/4d335011' target='_blank'>VMnet0和VMnet1和VMnet8的区别</a> - 2024-04-02
-* <a href='https://www.markyin.cn/article/a034bca7' target='_blank'>了解最经典的非对称加密算法RSA</a> - 2024-04-02
-* <a href='https://www.markyin.cn/article/912c78ad' target='_blank'>计算机中一些易混淆名词的区别</a> - 2024-04-02
-* <a href='https://www.markyin.cn/article/411a77ea' target='_blank'>基站是如何区分不同的手机信号的</a> - 2024-04-02
+
 <!-- END_SECTION:blog -->
 
 </td>
@@ -153,11 +149,11 @@
 ### 🤾‍♂️ <a href="https://www.douban.com/people/markyin0707/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/26967870/' target='_blank'>看过吾妻之话</a> - 2025-03-05
 * <a href='https://book.douban.com/subject/25897652/' target='_blank'>想读罗密欧与朱丽叶</a> - 2025-02-06
 * <a href='https://book.douban.com/subject/25832863/' target='_blank'>读过影响人类历史进程的100名人排行榜（修订版）</a> - 2025-02-06
 * <a href='https://book.douban.com/subject/36220148/' target='_blank'>读过暗恋这件难过的小事</a> - 2025-02-06
 * <a href='https://book.douban.com/subject/1007305/' target='_blank'>读过红楼梦</a> - 2025-01-11
-* <a href='https://book.douban.com/subject/26586149/' target='_blank'>想读国富论</a> - 2025-01-07
 <!-- END_SECTION:douban -->
 
 </td> 
