@@ -149,11 +149,7 @@
 ### 🤾‍♂️ <a href="https://www.douban.com/people/markyin0707/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-* <a href='http://movie.douban.com/subject/26967870/' target='_blank'>看过吾妻之话</a> - 2025-03-05
-* <a href='https://book.douban.com/subject/25897652/' target='_blank'>想读罗密欧与朱丽叶</a> - 2025-02-06
-* <a href='https://book.douban.com/subject/25832863/' target='_blank'>读过影响人类历史进程的100名人排行榜（修订版）</a> - 2025-02-06
-* <a href='https://book.douban.com/subject/36220148/' target='_blank'>读过暗恋这件难过的小事</a> - 2025-02-06
-* <a href='https://book.douban.com/subject/1007305/' target='_blank'>读过红楼梦</a> - 2025-01-11
+
 <!-- END_SECTION:douban -->
 
 </td> 
