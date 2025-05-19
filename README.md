@@ -149,7 +149,11 @@
 ### 🤾‍♂️ <a href="https://www.douban.com/people/markyin0707/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
-
+* <a href='https://movie.douban.com/subject/1849031/' target='_blank'>想看当幸福来敲门</a> - 2025-04-27
+* <a href='https://book.douban.com/subject/35519608/' target='_blank'>想读非暴力沟通（修订版）</a> - 2025-04-14
+* <a href='https://movie.douban.com/subject/1295467/' target='_blank'>想看罗密欧与朱丽叶</a> - 2025-04-13
+* <a href='https://book.douban.com/subject/26943161/' target='_blank'>想读未来简史</a> - 2025-04-11
+* <a href='https://book.douban.com/subject/3346027/' target='_blank'>想读庄子说</a> - 2025-04-11
 <!-- END_SECTION:douban -->
 
 </td> 
